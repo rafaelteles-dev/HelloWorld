@@ -3,11 +3,6 @@ using Serilog;
 
 namespace HelloWorld
 {
-    public class Pessoa
-    {
-        public string nome;
-
-    }
     class Program
     {
         static string Pessoas()
